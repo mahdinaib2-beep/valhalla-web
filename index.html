@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valhalla Web by Uzax</title>
+    <!-- ربط ملف الـ CSS الخارجي -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Scroll Progress Bar -->
+    <div id="scroll-progress"></div>
+
+    <header>
+        <h1>Valhalla</h1>
+        <p class="subtitle">Your ultimate platform for digital services, games, and exclusive drops.</p>
+        <div class="creator">Made by Uzax</div>
+    </header>
+
+    <div class="container">
+        <h2 class="section-title">Services & Drops</h2>
+        
+        <div class="grid">
+            <!-- الكارت الأول: يوجه لصفحة الألعاب داخل موقعك -->
+            <div class="card">
+                <div class="card-web-bg"></div>
+                <h3>Games & Accounts</h3>
+                <p>Providing exclusive game accounts and drops for the gaming community at competitive prices and high security.</p>
+                <a href="games.html" class="btn">Explore Now</a>
+            </div>
+
+            <!-- الكارت الثاني: يوجه لمتجر UZAX Store على الانستغرام -->
+            <div class="card">
+                <div class="card-web-bg"></div>
+                <h3>Digital Subscriptions</h3>
+                <p>Various digital services and subscriptions to meet your daily needs securely, instantly, and easily.</p>
+                <a href="https://instagram.com/uzax.shop" target="_blank" class="btn">View Services</a>
+            </div>
+
+            <!-- الكارت الثالث: يوجه لسيرفر الديسكورد -->
+            <div class="card">
+                <div class="card-web-bg"></div>
+                <h3>Valhalla Community</h3>
+                <p>Stay connected with us, and catch the latest drops and exclusive offers first before anyone else.</p>
+               <a href="https://discord.gg/valhallagate" target="_blank" class="btn">Contact Us</a>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Valhalla Web - All Rights Reserved | Powered by Uzax</p>
+    </footer>
+
+    <script>
+        // 1. Scroll Progress Bar Engine
+        window.addEventListener('scroll', () => {
+            const winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+            const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scrolled = (winScroll / height) * 100;
+            document.getElementById('scroll-progress').style.width = scrolled + '%';
+        });
+
+        // 2. Smooth Scroll Reveal Animations with Scale & Depth
+        const observerOptions = { threshold: 0.15 };
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.section-title, .card, footer').forEach(el => observer.observe(el));
+    </script>
+<script src="script.js"></script>
+</body>
+</html>
