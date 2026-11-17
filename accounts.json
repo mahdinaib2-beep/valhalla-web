@@ -86,5 +86,341 @@
     "username": "Rmzgff",
     "password": "Rmzgns1905",
     "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Forza Horizon 4 (UZAX Pack)",
+    "app_id": "1293830",
+    "username": "mpyyn02828",
+    "password": "18082006Ong$aa",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Forza Horizon 4 (UZAX Pack Alt)",
+    "app_id": "1293830",
+    "username": "necf16751",
+    "password": "Mm6Fv5Nr9Qn66t",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Forza Horizon 5 (UZAX Monster)",
+    "app_id": "1551360",
+    "username": "monsterice4566",
+    "password": "Zara13ssd",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Forza Horizon 5 + Subnautica 2 (UZAX Pack)",
+    "app_id": "1551360",
+    "username": "tvfnp31656",
+    "password": "pmo090710",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Resident Evil 4 (UZAX Pack)",
+    "app_id": "2050650",
+    "username": "exqgy03440",
+    "password": "2eZ9C3s9",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Forza Horizon 4 + Pack (UZAX Pack)",
+    "app_id": "1293830",
+    "username": "overfreak911",
+    "password": "yachertila",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Forza Horizon 4 (UZAX Arena)",
+    "app_id": "1293830",
+    "username": "forzaesporarena172",
+    "password": "Safak3535",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Forza Horizon 5 (UZAX T1dyy)",
+    "app_id": "1551360",
+    "username": "T1dyy0527",
+    "password": "Sn3yw7669",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Forza Horizon 5 (UZAX Gamerspace)",
+    "app_id": "1551360",
+    "username": "8sx9yb5v",
+    "password": "Gamerspace@1234",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Forza Horizon 5 (UZAX Smileboy)",
+    "app_id": "1551360",
+    "username": "smileboy21c",
+    "password": "j2c5h22!!",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Forza Horizon 4 (UZAX Nbyd)",
+    "app_id": "1293830",
+    "username": "nbyd64202",
+    "password": "nsWMhCgjn5R0bf0",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Forza Horizon 6 (UZAX Pack)",
+    "app_id": "1551360",
+    "username": "bwxbg03986",
+    "password": "pmtsa06710",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Forza Horizon 4 (UZAX Ddn)",
+    "app_id": "1293830",
+    "username": "ddn4elu7qjn01m",
+    "password": "Mortalkombat1234x",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 25,
+    "title": "GTA V (UZAX Legacy & Enhanced)",
+    "app_id": "271590",
+    "username": "dcdhi038",
+    "password": "TYX8BZ7CXD2X",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Assassin's Creed Odyssey (UZAX Pack)",
+    "app_id": "582160",
+    "username": "luisviseu1",
+    "password": "JEgsvAHH",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Ghost of Tsushima DIRECTOR'S CUT (UZAX Pack)",
+    "app_id": "2215430",
+    "username": "socialpidar",
+    "password": "Kirito09uz11",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg"
+  },
+  {
+    "id": 28,
+    "title": "AAA Package +300 Games V2 (UZAX Pack)",
+    "app_id": "1174180",
+    "username": "SIM0NCHIK21451",
+    "password": "SIMPLE123",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Elden Ring Nightreign (UZAX Pack)",
+    "app_id": "2622380",
+    "username": "hbiducoz8319",
+    "password": "ucirr02069",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg"
+  },
+  {
+    "id": 30,
+    "title": "GTA V Legacy + The Witcher 3 (UZAX Pack)",
+    "app_id": "271590",
+    "username": "falconne74",
+    "password": "account_by_tg@h452v",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Among Us & Counter Strike (UZAX Pack)",
+    "app_id": "945360",
+    "username": "strzvlv",
+    "password": "M99YGBY5XGME",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Spider-Man 2 (UZAX Pack)",
+    "app_id": "2622380",
+    "username": "spidermn2astrokey",
+    "password": "pass138azx@astrokey.store",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Call of Duty: Modern Warfare 4 (UZAX Pack)",
+    "app_id": "1938090",
+    "username": "jgqrm66771",
+    "password": "jyhas53135",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Sleeping Dogs (UZAX Pack)",
+    "app_id": "307690",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Friday the 13th (UZAX Pack)",
+    "app_id": "438740",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/438740/header.jpg"
+  },
+  {
+    "id": 36,
+    "title": "The Forest (UZAX Pack)",
+    "app_id": "242760",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Phasmophobia (UZAX Pack)",
+    "app_id": "739630",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/739630/header.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Forza Horizon 4 (UZAX Pack)",
+    "app_id": "1293830",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Half-Life (UZAX Pack)",
+    "app_id": "70",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/70/header.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Just Cause 3 (UZAX Pack)",
+    "app_id": "225540",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/225540/header.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Hitman Absolution (UZAX Pack)",
+    "app_id": "203140",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/203140/header.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Hitman 2 (UZAX Pack)",
+    "app_id": "863550",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/863550/header.jpg"
+  },
+  {
+    "id": 43,
+    "title": "It Takes Two (UZAX Pack)",
+    "app_id": "1426210",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Call of Duty: Black Ops III (UZAX Pack)",
+    "app_id": "311210",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Sons of the Forest (UZAX Pack)",
+    "app_id": "1326470",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Dark Souls III (UZAX Pack)",
+    "app_id": "374320",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Ark: Survival Evolved (UZAX Pack)",
+    "app_id": "346110",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Mortal Kombat 11 (UZAX Pack)",
+    "app_id": "976310",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Just Cause 2 (UZAX Pack)",
+    "app_id": "8190",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/8190/header.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Tomb Raider (UZAX Pack)",
+    "app_id": "203160",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Dying Light (UZAX Pack)",
+    "app_id": "239140",
+    "username": "fnsow23153",
+    "password": "Gm97XRxDsVLqcuF",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/239140/header.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Resident Evil Village (UZAX Bundle)",
+    "app_id": "1196590",
+    "username": "exqgy03440",
+    "password": "2eZ9C3s9",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg"
+  },
+  {
+    "id": 53,
+    "title": "20+ Games Pack (UZAX Bemon)",
+    "app_id": "1174180",
+    "username": "celtshelt",
+    "password": "Polestar19",
+    "image_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg"
   }
 ]
