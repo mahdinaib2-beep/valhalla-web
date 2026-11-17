@@ -329,16 +329,59 @@
 
     <script>
         const games = [
-            { title: "SNIPER ELITE 4", appId: "312660", user: "steamboatcategory", pass: "yvuwm9cp8WTe" },
-            { title: "CALL OF DUTY: MODERN WARFARE", appId: "1938090", user: "financialscorpion39551", pass: "n40saxt50yiyn4g!zru3b" },
-            { title: "RESIDENT EVIL REQUIEM", appId: "2050650", user: "pkbwn28474", pass: "rwych85203" },
-            { title: "RED DEAD REDEMPTION 2", appId: "1174180", user: "pamx36325", pass: "C4C45DCBXCKF" },
-            { title: "CYBERPUNK 2077", appId: "1091500", user: "msk247542", pass: "rae246924" },
-            { title: "FORZA HORIZON 5", appId: "1551360", user: "Vj7Iu0Ol3Nz6", pass: "Evylos12" },
-            { title: "RESIDENT EVIL VILLAGE", appId: "1196590", user: "exqgy03440", pass: "2eZ9C3s9" },
-            { title: "AGE OF EMPIRES II: DE", appId: "813780", user: "djw1040456792", pass: "NCDRxrBoin" },
-            { title: "BODYCAM", appId: "2407270", user: "vvhlg39685", pass: "nfwz57148X" },
-            { title: "Farming Simulator 22", appId: "1248130", user: "Rmzgff", pass: "Rmzgns1905" }
+            { title: "Sniper Elite 4", appId: "312660", user: "steamboatcategory", pass: "yvuwm9cp8WTe" },
+            { title: "Call of Duty: Modern Warfare", appId: "1938090", user: "financialscorpion39551", pass: "n40saxt50yiyn4g!zru3b" },
+            { title: "Resident Evil Requiem", appId: "2050650", user: "pkbwn28474", pass: "rwych85203" },
+            { title: "Red Dead Redemption 2", appId: "1174180", user: "pamx36325", pass: "C4C45DCBXCKF" },
+            { title: "Cyberpunk 2077", appId: "1091500", user: "msk247542", pass: "rae246924" },
+            { title: "Forza Horizon 5", appId: "1551360", user: "Vj7Iu0Ol3Nz6", pass: "Evylos12" },
+            { title: "Forza Horizon 5 (Alt)", appId: "1551360", user: "Vj7Iu0Ol3Nz6", pass: "Evylos12" },
+            { title: "Resident Evil Village", appId: "1196590", user: "exqgy03440", pass: "2eZ9C3s9" },
+            { title: "Age of Empires II: Definitive Edition", appId: "813780", user: "djw1040456792", pass: "NCDRxrBoin" },
+            { title: "Bodycam", appId: "2407270", user: "vvhlg39685", pass: "nfwz57148X" },
+            { title: "Farming Simulator 22", appId: "1248130", user: "Rmzgff", pass: "Rmzgns1905" },
+            { title: "Forza Horizon 4 (UZAX Pack)", appId: "1293830", user: "mpyyn02828", pass: "18082006Ong$aa" },
+            { title: "Forza Horizon 4 (UZAX Pack Alt)", appId: "1293830", user: "necf16751", pass: "Mm6Fv5Nr9Qn66t" },
+            { title: "Forza Horizon 5 (UZAX Monster)", appId: "1551360", user: "monsterice4566", pass: "Zara13ssd" },
+            { title: "Forza Horizon 5 + Subnautica 2 (UZAX Pack)", appId: "1551360", user: "tvfnp31656", pass: "pmo090710" },
+            { title: "Resident Evil 4 (UZAX Pack)", appId: "2050650", user: "exqgy03440", pass: "2eZ9C3s9" },
+            { title: "Forza Horizon 4 + Pack (UZAX Pack)", appId: "1293830", user: "overfreak911", pass: "yachertila" },
+            { title: "Forza Horizon 4 (UZAX Arena)", appId: "1293830", user: "forzaesporarena172", pass: "Safak3535" },
+            { title: "Forza Horizon 5 (UZAX T1dyy)", appId: "1551360", user: "T1dyy0527", pass: "Sn3yw7669" },
+            { title: "Forza Horizon 5 (UZAX Gamerspace)", appId: "1551360", user: "8sx9yb5v", pass: "Gamerspace@1234" },
+            { title: "Forza Horizon 5 (UZAX Smileboy)", appId: "1551360", user: "smileboy21c", pass: "j2c5h22!!" },
+            { title: "Forza Horizon 4 (UZAX Nbyd)", appId: "1293830", user: "nbyd64202", pass: "nsWMhCgjn5R0bf0" },
+            { title: "Forza Horizon 6 (UZAX Pack)", appId: "1551360", user: "bwxbg03986", pass: "pmtsa06710" },
+            { title: "Forza Horizon 4 (UZAX Ddn)", appId: "1293830", user: "ddn4elu7qjn01m", pass: "Mortalkombat1234x" },
+            { title: "GTA V (UZAX Legacy & Enhanced)", appId: "271590", user: "dcdhi038", pass: "TYX8BZ7CXD2X" },
+            { title: "Assassin's Creed Odyssey (UZAX Pack)", appId: "582160", user: "luisviseu1", pass: "JEgsvAHH" },
+            { title: "Ghost of Tsushima DIRECTOR'S CUT (UZAX Pack)", appId: "2215430", user: "socialpidar", pass: "Kirito09uz11" },
+            { title: "AAA Package +300 Games V2 (UZAX Pack)", appId: "1174180", user: "SIM0NCHIK21451", pass: "SIMPLE123" },
+            { title: "Elden Ring Nightreign (UZAX Pack)", appId: "2622380", user: "hbiducoz8319", pass: "ucirr02069" },
+            { title: "GTA V Legacy + The Witcher 3 (UZAX Pack)", appId: "271590", user: "falconne74", pass: "account_by_tg@h452v" },
+            { title: "Among Us & Counter Strike (UZAX Pack)", appId: "945360", user: "strzvlv", pass: "M99YGBY5XGME" },
+            { title: "Spider-Man 2 (UZAX Pack)", appId: "2622380", user: "spidermn2astrokey", pass: "pass138azx@astrokey.store" },
+            { title: "Call of Duty: Modern Warfare 4 (UZAX Pack)", appId: "1938090", user: "jgqrm66771", pass: "jyhas53135" },
+            { title: "Sleeping Dogs (UZAX Pack)", appId: "307690", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Friday the 13th (UZAX Pack)", appId: "438740", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "The Forest (UZAX Pack)", appId: "242760", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Phasmophobia (UZAX Pack)", appId: "739630", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Forza Horizon 4 (UZAX Pack)", appId: "1293830", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Half-Life (UZAX Pack)", appId: "70", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Just Cause 3 (UZAX Pack)", appId: "225540", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Hitman Absolution (UZAX Pack)", appId: "203140", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Hitman 2 (UZAX Pack)", appId: "863550", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "It Takes Two (UZAX Pack)", appId: "1426210", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Call of Duty: Black Ops III (UZAX Pack)", appId: "311210", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Sons of the Forest (UZAX Pack)", appId: "1326470", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Dark Souls III (UZAX Pack)", appId: "374320", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Ark: Survival Evolved (UZAX Pack)", appId: "346110", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Mortal Kombat 11 (UZAX Pack)", appId: "976310", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Just Cause 2 (UZAX Pack)", appId: "8190", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Tomb Raider (UZAX Pack)", appId: "203160", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Dying Light (UZAX Pack)", appId: "239140", user: "fnsow23153", pass: "Gm97XRxDsVLqcuF" },
+            { title: "Resident Evil Village (UZAX Bundle)", appId: "1196590", user: "exqgy03440", pass: "2eZ9C3s9" },
+            { title: "20+ Games Pack (UZAX Bemon)", appId: "1174180", user: "celtshelt", pass: "Polestar19" }
         ];
 
         const container = document.getElementById('cards-container');
@@ -368,7 +411,6 @@
                 container.appendChild(card);
             });
 
-            // تفعيل نظام التركيز التلقائي للبطاقة في منتصف الشاشة (Active Scale on Scroll)
             setupScrollFocus();
         }
 
@@ -387,7 +429,7 @@
                 });
             }, {
                 root: null,
-                rootMargin: '-20% 0px -20% 0px', // تفعل التركيز فقط لما تدخل البطاقة لمنتصف الشاشة
+                rootMargin: '-20% 0px -20% 0px',
                 threshold: 0.1
             });
 
@@ -431,7 +473,5 @@
             }
         }
     </script>
-
-    <script src="script.js"></script>
 </body>
 </html>
